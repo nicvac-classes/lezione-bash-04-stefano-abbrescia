@@ -13,6 +13,9 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
+@stefano7825 ➜ /workspaces/lezione-bash-04-stefano-abbrescia (main) $ echo "il mio script funzional" > ambiente/sandbox/mio_script.sh
+@stefano7825 ➜ /workspaces/lezione-bash-04-stefano-abbrescia (main) $ ls -1
+@stefano7825 ➜ /workspaces/lezione-bash-04-stefano-abbrescia (main) $ chmod u+x ambiente/sandbox/mio_script.sh
+@stefano7825 ➜ /workspaces/lezione-bash-04-stefano-abbrescia (main) $ ls -1
 
 
