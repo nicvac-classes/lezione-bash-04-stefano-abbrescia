@@ -19,6 +19,7 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
+@stefano7825 ➜ /workspaces/lezione-bash-04-stefano-abbrescia (main) $ mkdir -p ambiente/ sandbox/negozio
+@stefano7825 ➜ /workspaces/lezione-bash-04-stefano-abbrescia (main) $ rm ambiente/sandbox/negozio
 
 
